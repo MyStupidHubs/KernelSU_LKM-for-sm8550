@@ -47,7 +47,7 @@ jobs:
           - id: kernelsu-original
             name: KernelSU
             repository: tiann/KernelSU
-            ref: 3c1240625655978f319a98398031100b80e9da7c
+            ref: 0c0fdb960178fa12d80d6cbcfdcb6ad8be6a865d
             module_file: kernelsu.ko
           - id: kowsu
             name: KowSU
